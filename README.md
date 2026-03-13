@@ -41,7 +41,7 @@ I build resilient, scalable infrastructure and AI systems that solve real-world 
 - **Scripting:** Automation of repetitive tasks, API integrations
 
 ### **AI & Emerging Tech**
-- **AI Systems:** Multi-agent architectures (OpenClaw), personal AI companions
+- **AI Systems:** Multi-agent architectures (OpenClaw), personal digital assistants
 - **OSINT Platforms:** Pattern detection, data aggregation, threat intelligence
 - **Edge Computing:** Raspberry Pi clusters, IoT integration
 - **BCI Interest:** Neural interfaces for accessibility (following Neuralink/Synchron trials)
