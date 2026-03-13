@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I build resilient, scalable infrastructure and AI systems that solve real-world problems. With **35 years in IT** (starting in the U.S. Air Force in 1991), I've evolved from COBOL and FoxPro to modern cloud platforms, managing thousands of servers and supporting mission-critical systems.
 
@@ -17,7 +17,7 @@ I build resilient, scalable infrastructure and AI systems that solve real-world 
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### **Cloud & Infrastructure**
 - **AWS:** EC2, S3, IAM, VPC, CloudFormation, AMI management
@@ -46,11 +46,7 @@ I build resilient, scalable infrastructure and AI systems that solve real-world 
 
 ---
 
-## 🔥 Featured Projects
-
-### **[AWS AMI Cleanup](https://github.com/jason-scott-adams/aws-ami-cleanup)** - Cost Optimization Tool
-Shell script that automates deregistration of old AMIs and deletion of associated snapshots. Saves thousands in monthly AWS costs.
-- **Tech:** AWS CLI, bash, IAM policies, cron scheduling
+## Featured Projects
 
 ### **Tyler Technologies Cloud Migration**
 Proprietary work migrating on-premise infrastructure to AWS, implementing hybrid environments, and optimizing for cost/performance.
@@ -59,14 +55,14 @@ Proprietary work migrating on-premise infrastructure to AWS, implementing hybrid
 
 ---
 
-## 📈 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason-scott-adams&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-scott-adams&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 🎓 Certifications & Education
+## Certifications & Education
 
 - **AWS Certified Cloud Practitioner** (2025) - *Current*
 - **CompTIA Security+** - *In Progress*
@@ -76,7 +72,7 @@ Proprietary work migrating on-premise infrastructure to AWS, implementing hybrid
 
 ---
 
-## 🏆 Career Highlights
+## Career Highlights
 
 - **35 years** in IT infrastructure, from mainframes to cloud
 - **U.S. Air Force veteran** with honorable discharge
@@ -86,7 +82,7 @@ Proprietary work migrating on-premise infrastructure to AWS, implementing hybrid
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in:
 - Cloud infrastructure challenges
@@ -96,6 +92,6 @@ I'm always interested in:
 - Resilient system design
 
 **Reach out:**
-- 📧 Email: jsadams73@gmail.com
-- 📝 Resume: [View PDF](https://github.com/jason-scott-adams/Profile.pdf)
+- Email: jsadams73@gmail.com
+- Resume: [View PDF](https://github.com/jason-scott-adams/Profile.pdf)
 
